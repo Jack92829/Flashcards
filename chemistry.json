@@ -1,12 +1,6 @@
 {
     "Redox reactions": {
-        "All": {
-
-        },
         "Redox reactions": {
-            "All": {
-    
-            },
             "Key terms and definitions": {
                 "What is a redox reaction": "A chemical reaction that involves the transfer of electrons between two species",
                 "What is reduction": "A chemical reaction where a species decreases its oxidation number by gaining electrons",
@@ -17,10 +11,25 @@
                 "What is a conjugate redox pair": "An electron donor (reducing agent) and its corresponding electron acceptor"
             }
         },
-        "Galvanic cells": {
-            "All": {
-
+        "Writing equations for redox reactions": {
+            "Key terms and definitions": {
+                "What is an electrochemical series": "An arrangement of chemical species in order of their reducing and oxidising strength",
+                "What is a redox half equation": "One of two equations (oxidation or reduction) which describes one half of a redox reaction"
             },
+            "Balancing redox equations": {
+                "What rule describes the steps to balance a redox half equation": "KOHES",
+                "What does KOHES stand for": "Key elements \nOxygen atoms \nHydrogen atoms \nElectrons \nStates",
+                "How do you balance hydrogen under acidic conditions": "Balance the hydrogen using H^+ ions",
+                "How do you balance hydrogen under alkaline conditions": "Balance as you would under acidic conditions, then add OH^- to both sides of the equations, which makes H^+ become water",
+                "What must be kept in mind when balancing overall redox reactions": "The charges of both equations must be equal, you can multiply the equations to get the same number of electrons in each before adding the equations together"
+            },
+            "Predicting spontaneous redox reactions": {
+                "True/False: The electrochemical series can be used to predict which chemical species undergoes oxidation or reduction when it reacts with another substance": "True",
+                "True/False: A spontaneour redox reaction will occur if the strongest oxidant is positioned below the strongest reductant": "False",
+                "Which species will be oxidised when Iron solid is placed in a solution of silver ions": "Silver is a stronger oxidant than iron, and as such Iron solid will be oxidised to form aqueous Iron ions"
+            }
+        },
+        "Galvanic cells": {
             "Key terms and definitions": {
                 "What is a galvanic cell": "An electrochemical cell in which chemical energy from spontaneous redox reactions is converted into electrical energy",
                 "What is an anode": "The negatively charged electrode in a galvanic cell where oxidation occurs",
@@ -30,14 +39,9 @@
             }
         }
     },
-    "Electrolysis and batteries": {
-        "All": {
-            
-        },
-        "Primary and secondary cells": {
-            "All": {
 
-            },
+    "Electrolysis and batteries": {
+        "Primary and secondary cells": {
             "Key terms and definitions": {
                 "What are primary cells": "Non-rechargeable electrochemical cells in which a chemical reaction generates electrical energy",
                 "What are secondary cells": "Rechargeable electrochemical cells in which a chemical reaction generates electrical energy",
