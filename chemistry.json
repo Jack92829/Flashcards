@@ -9,6 +9,17 @@
                 "What is a reducing agent/reductant": "A species that reduces another substance and is itself oxidised",
                 "What is an oxidation number": "A number assigned to an element that represents the number of electrons lost or gained by an atom of that element to form a chemical bond with another species",
                 "What is a conjugate redox pair": "An electron donor (reducing agent) and its corresponding electron acceptor"
+            },
+            "Oxidation numbers": {
+                "What is the oxidation number of a free element": "Zero",
+                "What is the oxidation number of a simple ion": "The number is equal to the charge of the ion",
+                "What is the sum of oxidation numbers in a neutral compound": "Zero",
+                "What is the sum of oxidation numbers in a polyatomic ion": "The sum is equal to the charge of the polyatomic ion",
+                "What is the oxidation number of hydrogen normally": "+1",
+                "What is the oxidation number of hydrogen when it is part of a metal hydride": "-1",
+                "What is the normal oxidation number of oxygen": "-2",
+                "What is the oxidation number of oxygen when it is part of a peroxide": "-1",
+                "State the oxidation number of Aluminum before and after the reaction 2Al{(s)} + 3I{2(s)} -> 2AlI{3(s)}": "Before: 0 \nAfter: +3"
             }
         },
         "Writing equations for redox reactions": {
@@ -19,14 +30,17 @@
             "Balancing redox equations": {
                 "What rule describes the steps to balance a redox half equation": "KOHES",
                 "What does KOHES stand for": "Key elements \nOxygen atoms \nHydrogen atoms \nElectrons \nStates",
-                "How do you balance hydrogen under acidic conditions": "Balance the hydrogen using H^+ ions",
-                "How do you balance hydrogen under alkaline conditions": "Balance as you would under acidic conditions, then add OH^- to both sides of the equations, which makes H^+ become water",
-                "What must be kept in mind when balancing overall redox reactions": "The charges of both equations must be equal, you can multiply the equations to get the same number of electrons in each before adding the equations together"
+                "How do you balance hydrogen under acidic conditions": "Balance the hydrogen using H[+] ions",
+                "How do you balance hydrogen under alkaline conditions": "Balance as you would under acidic conditions, then add OH[-] to both sides of the equations, which makes H[+] become water",
+                "What must be kept in mind when balancing overall redox reactions": "The charges of both equations must be equal, you can multiply the equations to get the same number of electrons in each before adding the equations together",
+                "What in the two half equations present needs to be balanced in order to create a balanced overall equation \nFe[3+]{(aq)} + e[-] -> Fe[2+]{(aq)} \nPb{(s)} -> Pb[2+]{(aq)} + 2e[-]": "The electrons must be balanced"
             },
             "Predicting spontaneous redox reactions": {
                 "True/False: The electrochemical series can be used to predict which chemical species undergoes oxidation or reduction when it reacts with another substance": "True",
                 "True/False: A spontaneour redox reaction will occur if the strongest oxidant is positioned below the strongest reductant": "False",
-                "Which species will be oxidised when Iron solid is placed in a solution of silver ions": "Silver is a stronger oxidant than iron, and as such Iron solid will be oxidised to form aqueous Iron ions"
+                "Which species will be oxidised when Iron solid is placed in a solution of silver ions": "Silver is a stronger oxidant than iron, and as such Iron solid will be oxidised to form aqueous Iron ions",
+                "Under what conditions was the electrochemical series produced": "100kPa of pressure \n25 degrees celcius \n1M concentration",
+                "What half-cell was used as a reference point when constructing the electrochemical series": "A hydrogen half-cell"
             }
         },
         "Galvanic cells": {
@@ -36,6 +50,20 @@
                 "What is a cathode": "The positively charged electrode in a galvanic cell where reduction occurs",
                 "What is a salt bridge": "A connection that allows the flow of ions between two half cells to maintain the electrical neutrality of the cell",
                 "What is an electrode": "An electrical conductor that is either unreactive or involved in a reaction"
+            },
+            "Questions": {
+                "True/False: A galvanic cell consists of two seperate half-cells that are not connected in any way": "False, the two half-cells are connected via a wire and salt bridge",
+                "Why must the two half-cells be kept seperate": "It allows for the electrons from one reaction to flow throught a wire to the other, thereby allowing a circuit to be constructed",
+                "What is the purpose of the salt bridge in a galvanic cell": "It maintains the electrical neutrility of the cell by allowing ions to flow between the two half cells",
+                "What are inert electrodes": "Electrodes that are unreactive in order to facilitate the flow of electrons from one half-cell to another without causing unwanted redox reactions",
+                "Describe what is required in a gaseous half-cell": "A glass tube is used to pump the gaseous reactant into the solution, an inert electrode allows the electrons produced to travel through a wire to the other half-cell",
+                "What is the purpose of a galvanic cell": "It's purpose is to generate electrical energy for use in a device",
+                "True/False: Anions in the salt bridge will migrate towards the positive electrode": "False, they will migrate towards the negative electrode",
+                "What is the formula for finding the overall voltage of a galvanic cell": "Voltage = Reduction electrode potential - Oxidation electrode potential",
+                "State the voltage produced in a cell using a lithium half-cell and a silver half-cell": "V = Ag potential - Li potential \nV = 0.8 - (-3.04) \nV = 3.84",
+                "What does the voltage of a galvanic cell depend on": "The energy being released in the chemical reactions",
+                "What does the current of a galvanic cell depend on": "The rate of reaction, with a higher rate yielding a higher current",
+                "True/False: If no reaction is apparent, no reaction is occurring": "False, the reaction may be occurring at a slow rate"
             }
         }
     },
@@ -48,6 +76,22 @@
                 "What is meant by the term 'recharge'": "The conversion of electrical energy into electrical energy through redox reactions with the aid of an external power supply",
                 "What is meant by the term 'discharge'": "The conversion of chemical energy to electrical energy as a result of spontaneous redox reactions",
                 "What are batteries": "Devices consisting of cells that convert chemical energy to electrical energy"
+            },
+            "Primary cells": {
+                "Why are primary cells problematic": "As they cannot be recharged, they produce a lot of potentially harmful waste",
+                "True/False: Primary cells can undergo recharge, but they cannot undergo discharge": "False, they can undergo discharge only",
+                "What factors prevent primary cells from being rechargeable": "In order for a cell to be recharged it must meet the following conditions: \n- The products of the cell reaction must remain in contact with their electrodes \n- The products must be in a form that allows it to be converted back to its original reactant form \n- An external power supply must be present to drive the non-spontaneous redox reactions"
+            },
+            "Secondary cells": {
+                "True/False: Secondary cells are found in laptops, cameras, phones and more": "True",
+                "Why must secondary cells be connected to an external power supply to recharge": "The reactions required to convert the products of the discharge back to their reactant form are non-spontaneous reactions. And as such a source of energy is required to drive these reactions",
+                "True/False: Secondary cells require a power supply with a voltage lower than that of the cell in order to recharge": "False, they require a power supply with a voltage higher than that of the cell"
+            },
+            "Factors affecting battery life and capacity": {
+                "What does battery life refer to": "The extent to which a battery can power something or the number of recharge-discharge cycles a battery can undergo before it dies",
+                "How do high temperatures effect battery life": "As the temperature increases, so does the rate of side reactions, which will decrease the battery life",
+                "How do low temperatures effect battery capacity": "As the temperature decreases, so does the capacity of the battery because the cell reaction rate decreases, producing less electrical energy",
+                "List some factors that affect battery life": "- Temperature \n- Reactants and products migrating away from their electrodes \n- Side reactions converting reactants and products to inactive forms \n- Side reactions forming chemicals that inferfere with cell functioning \n- Corrosion of internal components \n- Leakage of the electrolyte"
             }
         }
     }
