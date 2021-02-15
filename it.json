@@ -1,0 +1,25 @@
+{
+    "Networking systems": {
+        "All": {
+
+        },
+        "Key terms and definitions": {
+            "What is meant by 'bandwidth'": "The amount of data that can be transmitted over the network every second",
+            "What is meant by 'latency'": "A measure of how long it takes for a packet of data to get from one point to another",
+            "What is a client": "An application that runs on a computer and works with a server to perform some operations",
+            "What is a network": "Two or more computers, and often other devices, that are linked together so that they can share hardware and transfer data to each other",
+            "What is a LAN": "A network that operates on one single geographical location",
+            "What is a WAN": "A network that consists of a collections of LANs across multiple geographical regions",
+            "What is a SOHO network": "A local area network (LAN) that has a maximum of 10 users",
+            "What is a protocol": "An agreed method of communication between two communicating devices",
+            "What is an IP address": "A unique number that is assigned to a computer while it is connected to a network",
+            "What is a Uniform Resource Locator (URL)": "A string of text that contains the location (commonly called a web address) of a resource found on the internet"
+        }
+    },
+    "To sort, random stuff": {
+        "What are the three major components of a URL": "The protocol, the domain and the path",
+        "What does URL stand for": "Uniform Resource Locator",
+        "What is the purpose of domain name system (DNS) servers": "DNS servers are responsible for translating URLs into IP address (think of them like phone books)",
+        "List three benefits of using a proxy server": "1: It can restrict access to certain information in order to prevent unauthorised access \n2: It can cache recently requested resources for faster resource fetching \n3: It allows for anonymous usage of the internet (to a degree) as the server to which a request is being made will only see the proxy servers IP address rather than the clients"
+    }
+}

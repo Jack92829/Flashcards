@@ -1,0 +1,50 @@
+{
+    "Redox reactions": {
+        "All": {
+
+        },
+        "Redox reactions": {
+            "All": {
+    
+            },
+            "Key terms and definitions": {
+                "What is a redox reaction": "A chemical reaction that involves the transfer of electrons between two species",
+                "What is reduction": "A chemical reaction where a species decreases its oxidation number by gaining electrons",
+                "What is oxidation": "A chemical reaction where a species increases its oxidation number by losing electrons",
+                "What is an oxidising agent/oxidant": "A species that oxidises another substance and is itself reduced",
+                "What is a reducing agent/reductant": "A species that reduces another substance and is itself oxidised",
+                "What is an oxidation number": "A number assigned to an element that represents the number of electrons lost or gained by an atom of that element to form a chemical bond with another species",
+                "What is a conjugate redox pair": "An electron donor (reducing agent) and its corresponding electron acceptor"
+            }
+        },
+        "Galvanic cells": {
+            "All": {
+
+            },
+            "Key terms and definitions": {
+                "What is a galvanic cell": "An electrochemical cell in which chemical energy from spontaneous redox reactions is converted into electrical energy",
+                "What is an anode": "The negatively charged electrode in a galvanic cell where oxidation occurs",
+                "What is a cathode": "The positively charged electrode in a galvanic cell where reduction occurs",
+                "What is a salt bridge": "A connection that allows the flow of ions between two half cells to maintain the electrical neutrality of the cell",
+                "What is an electrode": "An electrical conductor that is either unreactive or involved in a reaction"
+            }
+        }
+    },
+    "Electrolysis and batteries": {
+        "All": {
+            
+        },
+        "Primary and secondary cells": {
+            "All": {
+
+            },
+            "Key terms and definitions": {
+                "What are primary cells": "Non-rechargeable electrochemical cells in which a chemical reaction generates electrical energy",
+                "What are secondary cells": "Rechargeable electrochemical cells in which a chemical reaction generates electrical energy",
+                "What is meant by the term 'recharge'": "The conversion of electrical energy into electrical energy through redox reactions with the aid of an external power supply",
+                "What is meant by the term 'discharge'": "The conversion of chemical energy to electrical energy as a result of spontaneous redox reactions",
+                "What are batteries": "Devices consisting of cells that convert chemical energy to electrical energy"
+            }
+        }
+    }
+}
