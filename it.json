@@ -1,5 +1,47 @@
 {
     "Networking systems": {
+        "Communications networks": {
+            "What is a network": "Two or more computers, and often other devices, that are linked together so that they can share hardware and transfer data to each other",
+            "List the main advantages of using a network": "- Sharing peripheral devices \n- Sharing data \n- Sharing files and applications",
+            "List the main disadvantages of using a network": "- Security issues \n- Unauthorised access issues",
+            "What is meant by 'sharing peripheral devices' and why is it a significant feature of networks": "The ability to share printers, fax machines, scanners etc amongst network users. \nThis is significant as it reduces the total number of devices required in a workplace, saving money and space.",
+            "What is meant by 'sharing internet services' and why is it a significant feature of networks": "A single connection to the internet can provide email, web and file access services to all network users. \nThis is significant as it allows you to access information at any time",
+            "What is meant by 'sharing data and information' and why is it a significant feature of networks": "As a user of a network, people are able to save and retrieve their data to a server on the network. \nThis is significant as the data can be made available to other network users, allowing for the easy sharing of data between users.",
+            "What is meant by 'sharing network applications' and why is it a significant feature of networks": "An application can be stored on a server in a network. \nThis is significant as the application can be accessed by users (either by downloading or cloud computing) of the network when they need it, ensuring the users will always be using the most up-to-date version of the application.",
+            "What is 'cloud computing'": "A term used to represent accessing and using applications stored on a server elsewhere on the internet, allowing the user to save storage space and have a server perform computationly expensive tasks rather than the users device.",
+            "What is distributed processing": "A form of processing in which the computational load is divided amongst multiple computers",
+            "What are some threats that come from the internet": "Viruses and hackers",
+            "What are some threats that come from within a firewall": "Workers causing careless of purposeful malicious incidents, damage from fire or other disasters, theft, mechanical failure",
+            "What are the two main things a network administrator will do to defend against viruses": "Installing a firewall and installing virus protection software"
+        },
+        "Network protocols": {
+            "Fundamentals": {
+                "What is a protocol": "An agreed method of communication between two communicating devices",
+                "Why are protocols needed on a computer network": "They allow computers to communicate with each other in order to send and receive data",
+                "What is the difference between open and proprietary protocols": "Open protocols are designed to that they may be used by anyone, while proprietary protocols are developed by manufacturers to work only with the devices or software they made",
+                "What is the purpose of an IP address": "An IP address is used to uniquely identify each device connected to a network so that data can be delivered to the correct place",
+                "What is the difference between a dynamic IP address and a static IP address": "Dynamic IP addresses are allocated to a computer upon logging onto a network and are discarded upon logging off. Static IP addresses are permanently assigned to a computer by a network administrator",
+                "True/False: Two computers on the same network can have the same IP address": "False, IP addresses must be unique"
+            },
+            "Protocol types": {
+                "What is hypertext transfer protocol (HTTP) and its purpose": "HTTP is a protocol used to transfer web pages over a network",
+                "What is file transfer protocol (FTP) and its purpose": "FTP is a protocol used to transfer files over a network",
+                "What is simple message transfer protocol (SMTP) and its purpose": "SMTP is a protocol used to transfer email messages over a network",
+                "What is voice over internet protocol (VoIP) and its purpose": "VoIP is a protocol used to send voice messages over a network",
+                "What is internet protocol (IP) and its purpose": "IP is a protocol that adds and reads addresses on data packets being sent over a network",
+                "What is transmission control protocol (TCP) and its purpose": "TCP is a protocol that makes a connection between two networked computers"
+            }
+        },
+        "Data transmission modes": {
+            
+        }
+
+    },
+
+
+
+
+    "Networking systems arstarstdrs": {
         "All": {
 
         },
