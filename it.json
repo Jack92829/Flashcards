@@ -21,19 +21,55 @@
                 "What is the difference between open and proprietary protocols": "Open protocols are designed to that they may be used by anyone, while proprietary protocols are developed by manufacturers to work only with the devices or software they made",
                 "What is the purpose of an IP address": "An IP address is used to uniquely identify each device connected to a network so that data can be delivered to the correct place",
                 "What is the difference between a dynamic IP address and a static IP address": "Dynamic IP addresses are allocated to a computer upon logging onto a network and are discarded upon logging off. Static IP addresses are permanently assigned to a computer by a network administrator",
-                "True/False: Two computers on the same network can have the same IP address": "False, IP addresses must be unique"
+                "True/False: Two computers on the same network can have the same IP address": "False, IP addresses must be unique",
+                "What are data packets": "A formatted unit of data carried across a network",
+                "Why are URLs used instead of IP addresses to identify a website": "URLs are much easier to remember than IP addresses, as they are written in a format humans can comprehend more than a string of numbers",
+                "Outline why open protocols take longer to develop than proprietary protocols": "Proprietary protocols are designed to suit one specific purpose, while open protocols need to be made in such a way that others can adapt and incorporate them into their products/services",
+                "What is a Uniform Resource Locator (URL)": "A string of text that encodes the location (commonly called a web address) of a resource found on the internet"
             },
-            "Protocol types": {
+            "Protocols": {
                 "What is hypertext transfer protocol (HTTP) and its purpose": "HTTP is a protocol used to transfer web pages over a network",
                 "What is file transfer protocol (FTP) and its purpose": "FTP is a protocol used to transfer files over a network",
                 "What is simple message transfer protocol (SMTP) and its purpose": "SMTP is a protocol used to transfer email messages over a network",
                 "What is voice over internet protocol (VoIP) and its purpose": "VoIP is a protocol used to send voice messages over a network",
                 "What is internet protocol (IP) and its purpose": "IP is a protocol that adds and reads addresses on data packets being sent over a network",
-                "What is transmission control protocol (TCP) and its purpose": "TCP is a protocol that makes a connection between two networked computers"
+                "What is transmission control protocol (TCP) and its purpose": "TCP is a protocol that makes a connection between two networked computers",
+                "What is Bluetooth": "A standard communications protocol for low-power devices within a short range",
+                "What is AppleTalk": "A protocol developed by apple to enables apple devices to exchange data and share printers on a small network (no longer used)",
+                "What is NetBEUI": "A protocol that was used to transfer data between computers on a small network (no longer used)",
+                "What is IPX/SPX": "A protocol that was developed to support networking using the Novell Netware operaing system"
             }
         },
         "Data transmission modes": {
-            
+            "What are the three main approaches to communication between people and devices": "Simplex, half-duplex and full-duplex transmission",
+            "Why is there three different modes of data transmission": "Each mode was developed over time to suit different technologies and uses of those technologies",
+            "What is simplex transmission": "Data transmission in which data can flow in one direction only",
+            "Why can't simplex transmission have error detection and correction": "The flow of data is in one direction only, meaning if it gets corrupted while travelling to its target, there is no way for the target to make a request for the information to be resent",
+            "True/False: A radio station broadcasting a signal is an example of simplex transmission": "True",
+            "What is half-duplex transmission": "Transmission in which a signal may be passed in two directions along a medium, but not both directions at the same time",
+            "True/False: The transmission of a video signal to a computer monitor is an example of half-duplex transmission": "False, this is an example of simplex transmission as data is flowing in one direction only",
+            "What is full-duplex transmission": "Transmission in which data can be exchanged in two directions simultaneously",
+            "True/False: Full-duplex transmission is must faster and has more rapid error detection and correction": "True",
+            "True/False: A telephone call is an example of full-duplex transmission": "True",
+            "What are parity bits and what are they used for": "A parity bit is a 0 or 1 that is added to a byte of data so that there is an odd number of 1's in the byte. If the receiving computer detects that there is an even number of 1's, that means the data has been corrupted and it can request for it to be resent",
+            "What is meant by 'transmission'": "The transferring of something from one place to another"
+        },
+        "Data transmission rates": {
+            "What is meant by the term 'bandwidth'": "Bandwidth is the amount of data that can be transmitted over a network every second",
+            "What is meant by the term 'latency'": "Latency is a measure of how long it takes for a packet of data to get from one point on a network to another and back",
+            "What is meant by the term 'baud'": "Baud is a measure of how many signals (for example voltage changes) that can be handled each second by the transmitting hardware",
+            "True/False: Broad bandwidth or 'broadband' indicates a wide range of frequencies which in turn means the ability to transmit data at a faster rate": "True",
+            "What is meant by 'ping'": "A ping tells you how long it takes a packet of data to travel from your computer to a server on the internet and back",
+            "What is the smallest symbol of digital data and what values can it have": "The bit (binary digit) is the smallest symbol of digital data, with a value of either 0 or 1"
+        },
+        "Data transmission media": {
+            "Wired transmission media": {
+                "What is name commonly used to refer to unshielded twisted pair cables (UTP)": "Ethernet cables",
+                "Outline the structure of Unshielded twisted pair cables (Ethernet cables)": "They contain four pairs of wires, twisted around each other like a rope to reduce interference from external sources",
+                "What is the difference between Cat5 and Cat6 Ethernet": "Cat5 ethernet has slower speeds than Cat6",
+                "Outline how fibre-optic cables work": "Fibre-optic cables work by sending light across fibre-optics in order to transfer data",
+                "True/False: Fibre-optic cables are capable of extremely fast transfer speeds but is more expensive than traditional cables": "True"
+            }
         }
 
     },
