@@ -152,6 +152,7 @@
                 "What is the difference between open and proprietary protocols": "Open protocols are designed to that they may be used by anyone, while proprietary protocols are developed by manufacturers to work only with the devices or software they made",
                 "What is the purpose of an IP address": "An IP address is used to uniquely identify each device connected to a network so that data can be delivered to the correct place",
                 "What is the difference between a dynamic IP address and a static IP address": "Dynamic IP addresses are allocated to a computer upon logging onto a network and are discarded upon logging off. Static IP addresses are permanently assigned to a computer by a network administrator",
+                "What is the benefit of having dynamic IP addresses": "Dynamic IP addresses are more convenient a lot of the time, as no setup is required by the user to ensure that no collisions occur, devices are simply assigned the next available IP address when they connect to the network",
                 "True/False: Two computers on the same network can have the same IP address": "False, IP addresses must be unique",
                 "What are data packets": "A formatted unit of data carried across a network",
                 "Why are URLs used instead of IP addresses to identify a website": "URLs are much easier to remember than IP addresses, as they are written in a format humans can comprehend more than a string of numbers",
@@ -244,6 +245,7 @@
                 "Outline the structure of Unshielded twisted pair cables (Ethernet cables)": "They contain four pairs of wires, twisted around each other like a rope to reduce interference from external sources",
                 "What is the difference between Cat5 and Cat6 Ethernet": "Cat5 ethernet has slower speeds than Cat6",
                 "How far can a signal be transmitted by a UTP cable before it needs boosting": "100 meters",
+                "What is the difference between crossover and straight-through ethernet": "Crossover connects two devices of the same type, such as pc to pc. While straight-through connects devices of different types",
                 "Outline how fibre-optic cables work": "Fibre-optic cables work by sending light across fibre-optics in order to transfer data",
                 "True/False: Fibre-optic cables are capable of extremely fast transfer speeds but is more expensive than traditional cables": "True",
                 "Outline the structure of an optical fibre": "An optical fibre is made up of a core which carries light, the cladding which reflects the light pulses back into the core, and the buffer coating which protects the core and cladding from moisture and damage",
@@ -274,7 +276,9 @@
             "What is the main advantage and main disadvantage of client-server networks": "The main advantage is that it can support a very large number of users, while its main disadvantage is that it is expensive to setup and requires expertise to maintain",
             "What are the disadvantages of peer-to-peer networks": "They can only support a small number of users and those users must be trusted",
             "What is a small office or home network (SOHO network)": "A LAN with a maximum of ten users",
-            "What is a client": "An application that runs on a computer and works with a server to perform some operations"
+            "What is a client": "An application that runs on a computer and works with a server to perform some operations",
+            "What is an intranet": "A private network containing data usually only accessible to staff of an organisation",
+            "What is an extranet": "An extranet is a network that extends an intranet onto the internet by providing passwords for access by people external to the network"
         },
         "Components of networks": {
             "All": {
@@ -339,7 +343,8 @@
             "Explain how users should be managed in regards to network security": "Usernames and passwords should be issued to users in order to set individual levels of access to different sections of the network",
             "Why are network users often allocated into groups in regards to network security": "By allocating permissions to a group it is much quicker than allocating and setting permissions for each individual user",
             "Why does some data need to be backed up in real time": "Vital data should have a copy made as the original is still being written to storage, this is done whenever any loss of data could be very expensive",
-            "Outline the three-generation/grandfather-father-son method of data protection": "This is a rotation scheme for backing up data, in which there are three backup cycles, with the newest being called the son"
+            "Outline the three-generation/grandfather-father-son method of data protection": "This is a rotation scheme for backing up data, in which there are three backup cycles, with the newest being called the son",
+            "What is a firewall": "Hardware or software used to block unauthorised access to a network"
         },
         "Network topology": {
             "What is a network topology": "The layout of a network is referred to as the networks topology",
@@ -349,6 +354,8 @@
             "Who uses star topologies": "Small businesses and sections of large corporations or campus networks",
             "True/False: Star topologies are the most popular network topology": "True",
             "Outline a bus topology": "A network in which all devices are connected along a single cable",
+            "What device is found at either end of a bus topology": "Terminators will be found at either end of a network utilising a bus topology",
+            "What is the purpose of terminators": "Terminators absorb signals so that they do not reflect back down a cable",
             "What is the main advantage of bus topologies": "It uses far less cabling than some other topologies",
             "What is the main disadvantage of bus topologies": "Collisions could occur along the cable, so systehs had to be developed to avoid this. And the devices on the cable all have to share the bandwidth",
             "Outline a ring topology": "A network in which devices are connected in a 'ring', making each device act as a repeater",
