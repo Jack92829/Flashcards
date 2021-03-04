@@ -1,0 +1,12 @@
+{
+    "Newtons theories of motion": {
+        "Newtons laws of motion": {
+            "State newtons first law of motion": "Every body remains in a state of rest or constant velocity in a uniform line unless acted upon by an unbalanced force",
+            "State the equation of newtons second law": "F = MA",
+            "State newtons third law": "When A applies a force on B, B will apply a force that is the same in nature and of equal magnitude but opposite in direction on A"
+        },
+        "Horizontal circular motion": {
+            "In what direction does a centripetal force act": "Towards the centre of a circular path"
+        }
+    }
+}
