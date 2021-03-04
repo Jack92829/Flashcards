@@ -192,7 +192,8 @@
                 "What is Bluetooth": "A standard communications protocol for low-power devices within a short range",
                 "What is AppleTalk": "A protocol developed by apple to enables apple devices to exchange data and share printers on a small network (no longer used)",
                 "What is NetBEUI": "A protocol that was used to transfer data between computers on a small network (no longer used)",
-                "What is IPX/SPX": "A protocol that was developed to support networking using the Novell Netware operaing system"
+                "What is IPX/SPX": "A protocol that was developed to support networking using the Novell Netware operaing system",
+                "What is dynamic host configuration protocol (DHCP)": "A protocol used to assign IP addresses to devices connected to the network"
             }
         },
         "Data transmission modes": {
