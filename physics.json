@@ -7,6 +7,20 @@
         },
         "Horizontal circular motion": {
             "In what direction does a centripetal force act": "Towards the centre of a circular path"
+        },
+        "Conservation of energy and momentum": {
+            "What is momentum": "The product of the mass and velocity of an object that indicates the difficulty it has in stopping",
+            "State the formula for momentum": "P = MV \n\nP = Momentum (kg ms^-1) \nM = Mass (kg) \nV = Velocity (ms^-1)",
+            "What does the law of conservation of momentum state": "In any collision or interaction between two or more objects in an isolated system, the total moment of the system will be conserved. That is, the total initial momentum will be equal to the total final momentum",
+            "What is a collision": "A situation when two objects interact and exert action-reaction forces on one another",
+            "What is an isolated system": "A system in which no forces external to the system act between the objects of the system",
+            "What is mechanical energy": "Energy associated with the motion and position of an object",
+            "What is the law of conservation of energy": "A universal law that states that energy cannot be created or destroyed, only tranformed and transferred",
+            "What is gravitational potential energy": "The energy that an object gains due to its posistion in a gravitational field",
+            "What is kinetic energy": "The energy an object has due to its motion"
         }
+    },
+    "Special relativity": {
+
     }
 }
