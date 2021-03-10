@@ -1,6 +1,81 @@
 {
     "Redox reactions": {
+        "All": {
+            "What is a redox reaction": "A chemical reaction that involves the transfer of electrons between two species",
+            "What is reduction": "A chemical reaction where a species decreases its oxidation number by gaining electrons",
+            "What is oxidation": "A chemical reaction where a species increases its oxidation number by losing electrons",
+            "What is an oxidising agent/oxidant": "A species that oxidises another substance and is itself reduced",
+            "What is a reducing agent/reductant": "A species that reduces another substance and is itself oxidised",
+            "What is an oxidation number": "A number assigned to an element that represents the number of electrons lost or gained by an atom of that element to form a chemical bond with another species",
+            "What is a conjugate redox pair": "An electron donor (reducing agent) and its corresponding electron acceptor",
+
+            "What is the oxidation number of a free element": "Zero",
+            "What is the oxidation number of a simple ion": "The number is equal to the charge of the ion",
+            "What is the sum of oxidation numbers in a neutral compound": "Zero",
+            "What is the sum of oxidation numbers in a polyatomic ion": "The sum is equal to the charge of the polyatomic ion",
+            "What is the oxidation number of hydrogen normally": "+1",
+            "What is the oxidation number of hydrogen when it is part of a metal hydride": "-1",
+            "What is the normal oxidation number of oxygen": "-2",
+            "What is the oxidation number of oxygen when it is part of a peroxide": "-1",
+            "State the oxidation number of Aluminum before and after the reaction 2Al{(s)} + 3I{2(s)} -> 2AlI{3(s)}": "Before: 0 \nAfter: +3",
+
+
+            "What is an electrochemical series": "An arrangement of chemical species in order of their reducing and oxidising strength",
+            "What is a redox half equation": "One of two equations (oxidation or reduction) which describes one half of a redox reaction",
+
+            "What rule describes the steps to balance a redox half equation": "KOHES",
+            "What does KOHES stand for": "Key elements \nOxygen atoms \nHydrogen atoms \nElectrons \nStates",
+            "How do you balance hydrogen under acidic conditions": "Balance the hydrogen using H[+] ions",
+            "How do you balance hydrogen under alkaline conditions": "Balance as you would under acidic conditions, then add OH[-] to both sides of the equations, which makes H[+] become water",
+            "What must be kept in mind when balancing overall redox reactions": "The charges of both equations must be equal, you can multiply the equations to get the same number of electrons in each before adding the equations together",
+            "What in the two half equations present needs to be balanced in order to create a balanced overall equation \nFe[3+]{(aq)} + e[-] -> Fe[2+]{(aq)} \nPb{(s)} -> Pb[2+]{(aq)} + 2e[-]": "The electrons must be balanced",
+
+            "True/False: The electrochemical series can be used to predict which chemical species undergoes oxidation or reduction when it reacts with another substance": "True",
+            "True/False: A spontaneour redox reaction will occur if the strongest oxidant is positioned below the strongest reductant": "False",
+            "Which species will be oxidised when Iron solid is placed in a solution of silver ions": "Silver is a stronger oxidant than iron, and as such Iron solid will be oxidised to form aqueous Iron ions",
+            "Under what conditions was the electrochemical series produced": "100kPa of pressure \n25 degrees celcius \n1M concentration",
+            "What half-cell was used as a reference point when constructing the electrochemical series": "A hydrogen half-cell",
+
+
+            "What is a galvanic cell": "An electrochemical cell in which chemical energy from spontaneous redox reactions is converted into electrical energy",
+            "What is an anode": "The negatively charged electrode in a galvanic cell where oxidation occurs",
+            "What is a cathode": "The positively charged electrode in a galvanic cell where reduction occurs",
+            "What is a salt bridge": "A connection that allows the flow of ions between two half cells to maintain the electrical neutrality of the cell",
+            "What is an electrode": "An electrical conductor that is either unreactive or involved in a reaction",
+
+            "True/False: A galvanic cell consists of two seperate half-cells that are not connected in any way": "False, the two half-cells are connected via a wire and salt bridge",
+            "Why must the two half-cells be kept seperate": "It allows for the electrons from one reaction to flow throught a wire to the other, thereby allowing a circuit to be constructed",
+            "What is the purpose of the salt bridge in a galvanic cell": "It maintains the electrical neutrility of the cell by allowing ions to flow between the two half cells",
+            "What are inert electrodes": "Electrodes that are unreactive in order to facilitate the flow of electrons from one half-cell to another without causing unwanted redox reactions",
+            "Describe what is required in a gaseous half-cell": "A glass tube is used to pump the gaseous reactant into the solution, an inert electrode allows the electrons produced to travel through a wire to the other half-cell",
+            "What is the purpose of a galvanic cell": "It's purpose is to generate electrical energy for use in a device",
+            "True/False: Anions in the salt bridge will migrate towards the positive electrode": "False, they will migrate towards the negative electrode",
+            "What is the formula for finding the overall voltage of a galvanic cell": "Voltage = Reduction electrode potential - Oxidation electrode potential",
+            "State the voltage produced in a cell using a lithium half-cell and a silver half-cell": "V = Ag potential - Li potential \nV = 0.8 - (-3.04) \nV = 3.84",
+            "What does the voltage of a galvanic cell depend on": "The energy being released in the chemical reactions",
+            "What does the current of a galvanic cell depend on": "The rate of reaction, with a higher rate yielding a higher current",
+            "True/False: If no reaction is apparent, no reaction is occurring": "False, the reaction may be occurring at a slow rate"
+        },
         "Redox reactions": {
+            "All": {
+                "What is a redox reaction": "A chemical reaction that involves the transfer of electrons between two species",
+                "What is reduction": "A chemical reaction where a species decreases its oxidation number by gaining electrons",
+                "What is oxidation": "A chemical reaction where a species increases its oxidation number by losing electrons",
+                "What is an oxidising agent/oxidant": "A species that oxidises another substance and is itself reduced",
+                "What is a reducing agent/reductant": "A species that reduces another substance and is itself oxidised",
+                "What is an oxidation number": "A number assigned to an element that represents the number of electrons lost or gained by an atom of that element to form a chemical bond with another species",
+                "What is a conjugate redox pair": "An electron donor (reducing agent) and its corresponding electron acceptor",
+
+                "What is the oxidation number of a free element": "Zero",
+                "What is the oxidation number of a simple ion": "The number is equal to the charge of the ion",
+                "What is the sum of oxidation numbers in a neutral compound": "Zero",
+                "What is the sum of oxidation numbers in a polyatomic ion": "The sum is equal to the charge of the polyatomic ion",
+                "What is the oxidation number of hydrogen normally": "+1",
+                "What is the oxidation number of hydrogen when it is part of a metal hydride": "-1",
+                "What is the normal oxidation number of oxygen": "-2",
+                "What is the oxidation number of oxygen when it is part of a peroxide": "-1",
+                "State the oxidation number of Aluminum before and after the reaction 2Al{(s)} + 3I{2(s)} -> 2AlI{3(s)}": "Before: 0 \nAfter: +3"
+            },
             "Key terms and definitions": {
                 "What is a redox reaction": "A chemical reaction that involves the transfer of electrons between two species",
                 "What is reduction": "A chemical reaction where a species decreases its oxidation number by gaining electrons",
@@ -23,6 +98,23 @@
             }
         },
         "Writing equations for redox reactions": {
+            "All": {
+                "What is an electrochemical series": "An arrangement of chemical species in order of their reducing and oxidising strength",
+                "What is a redox half equation": "One of two equations (oxidation or reduction) which describes one half of a redox reaction",
+
+                "What rule describes the steps to balance a redox half equation": "KOHES",
+                "What does KOHES stand for": "Key elements \nOxygen atoms \nHydrogen atoms \nElectrons \nStates",
+                "How do you balance hydrogen under acidic conditions": "Balance the hydrogen using H[+] ions",
+                "How do you balance hydrogen under alkaline conditions": "Balance as you would under acidic conditions, then add OH[-] to both sides of the equations, which makes H[+] become water",
+                "What must be kept in mind when balancing overall redox reactions": "The charges of both equations must be equal, you can multiply the equations to get the same number of electrons in each before adding the equations together",
+                "What in the two half equations present needs to be balanced in order to create a balanced overall equation \nFe[3+]{(aq)} + e[-] -> Fe[2+]{(aq)} \nPb{(s)} -> Pb[2+]{(aq)} + 2e[-]": "The electrons must be balanced",
+
+                "True/False: The electrochemical series can be used to predict which chemical species undergoes oxidation or reduction when it reacts with another substance": "True",
+                "True/False: A spontaneour redox reaction will occur if the strongest oxidant is positioned below the strongest reductant": "False",
+                "Which species will be oxidised when Iron solid is placed in a solution of silver ions": "Silver is a stronger oxidant than iron, and as such Iron solid will be oxidised to form aqueous Iron ions",
+                "Under what conditions was the electrochemical series produced": "100kPa of pressure \n25 degrees celcius \n1M concentration",
+                "What half-cell was used as a reference point when constructing the electrochemical series": "A hydrogen half-cell"
+            },
             "Key terms and definitions": {
                 "What is an electrochemical series": "An arrangement of chemical species in order of their reducing and oxidising strength",
                 "What is a redox half equation": "One of two equations (oxidation or reduction) which describes one half of a redox reaction"
@@ -44,6 +136,26 @@
             }
         },
         "Galvanic cells": {
+            "All": {
+                "What is a galvanic cell": "An electrochemical cell in which chemical energy from spontaneous redox reactions is converted into electrical energy",
+                "What is an anode": "The negatively charged electrode in a galvanic cell where oxidation occurs",
+                "What is a cathode": "The positively charged electrode in a galvanic cell where reduction occurs",
+                "What is a salt bridge": "A connection that allows the flow of ions between two half cells to maintain the electrical neutrality of the cell",
+                "What is an electrode": "An electrical conductor that is either unreactive or involved in a reaction",
+
+                "True/False: A galvanic cell consists of two seperate half-cells that are not connected in any way": "False, the two half-cells are connected via a wire and salt bridge",
+                "Why must the two half-cells be kept seperate": "It allows for the electrons from one reaction to flow throught a wire to the other, thereby allowing a circuit to be constructed",
+                "What is the purpose of the salt bridge in a galvanic cell": "It maintains the electrical neutrility of the cell by allowing ions to flow between the two half cells",
+                "What are inert electrodes": "Electrodes that are unreactive in order to facilitate the flow of electrons from one half-cell to another without causing unwanted redox reactions",
+                "Describe what is required in a gaseous half-cell": "A glass tube is used to pump the gaseous reactant into the solution, an inert electrode allows the electrons produced to travel through a wire to the other half-cell",
+                "What is the purpose of a galvanic cell": "It's purpose is to generate electrical energy for use in a device",
+                "True/False: Anions in the salt bridge will migrate towards the positive electrode": "False, they will migrate towards the negative electrode",
+                "What is the formula for finding the overall voltage of a galvanic cell": "Voltage = Reduction electrode potential - Oxidation electrode potential",
+                "State the voltage produced in a cell using a lithium half-cell and a silver half-cell": "V = Ag potential - Li potential \nV = 0.8 - (-3.04) \nV = 3.84",
+                "What does the voltage of a galvanic cell depend on": "The energy being released in the chemical reactions",
+                "What does the current of a galvanic cell depend on": "The rate of reaction, with a higher rate yielding a higher current",
+                "True/False: If no reaction is apparent, no reaction is occurring": "False, the reaction may be occurring at a slow rate"
+            },
             "Key terms and definitions": {
                 "What is a galvanic cell": "An electrochemical cell in which chemical energy from spontaneous redox reactions is converted into electrical energy",
                 "What is an anode": "The negatively charged electrode in a galvanic cell where oxidation occurs",
@@ -92,6 +204,97 @@
                 "How do high temperatures effect battery life": "As the temperature increases, so does the rate of side reactions, which will decrease the battery life",
                 "How do low temperatures effect battery capacity": "As the temperature decreases, so does the capacity of the battery because the cell reaction rate decreases, producing less electrical energy",
                 "List some factors that affect battery life": "- Temperature \n- Reactants and products migrating away from their electrodes \n- Side reactions converting reactants and products to inactive forms \n- Side reactions forming chemicals that inferfere with cell functioning \n- Corrosion of internal components \n- Leakage of the electrolyte"
+            }
+        }
+    },
+    "Fuels": {
+        "Fossil fuels": {
+            "All": {
+                "What is a fuel": "A substance that is used, usually combusted, that has energy stored in its bonds",
+                "What is a fossil fuel": "A natural fuel that is formed in the Earth from plant or animal remains",
+                "What is coal": "A combustible fossil fuel formed by the partial decay of plant matter",
+                "What is petrodiesal": "A liquid hydrocarbon fossil fuel obtained from crude oil",
+                "What is natural gas": "A fossil fuel consisting largely of hydrocarbons",
+                "What is coal seam gas": "A natural gas sourced from coal deposits",
+                "What is the greenhouse effect": "The process of the warming of Earths lower atmosphere due to the increased quantities of gases, like carbon dioxide, water vapour and methane, in the air",
+                "What is a non-renewable resource": "A resource that cannot be replenished as quickly as it is being consumed",
+                "What is petroleum/crude oil": "A mixture of hydrocarbons that need to be seperated and possibly treated to produce desired products",
+                "Why are fossil fuels useful": "They contain a lot of chemical energy that can be readily released through combustion",
+                "What SI unit is energy measured in and what symbol is it given": "The Joule, given the symbol J",
+                "What are the three most common fossil fuels": "Coal, petrodiesal and natural gas",
+                "What are the three steps in the forming of black coal": "1: Vegetation dies to form peat (60% carbon) \n2: Peat is compressed between sediment to form brown coal (70% carbon)\n3: Brown coal is further compressed to form black coal (90% carbon)",
+                "True/False: Brown coal is the most energy rich coal, with a carbon percentage of roughly 70%": "False, black coal has a higher carbon percentage of 90%",
+                "Outline the steps involved in converting coal to electrical energy": "1: Coal is combusted \n2: The heat produced is used to boil water, forming steam \n3: The steam is used to turn a turbine that produces electrical energy",
+                "What name is given to the process used to seperate hydrocarbons in petroleum/crude oil": "Fractional distillation",
+                "True/False: Petrodiesel is produced during the fractional distillation of crude oil/petroleum": "True",
+                "True/False: Petroleum/crude oil deposits are rarely contaminated by sulfur and nitrogen compounds, resulting in the production of harmful substances when combusted": "False, these deposits are very often contaminated",
+                "Where is natural gas often found": "Bound to the surface of coal deposits and trapped in shale rock",
+                "How is natural gas accessed": "Drilling and a process known as fracking",
+                "Outline the process of fracking": "Fracking involves the injecting of high pressure liquid into coal and shale rocks to force open fissures to extract the gas",
+                "Why are fossil fuels considered non-renewable": "They cannot be produced as fast as they are being consumed, as the process of fossilisation takes a long time"
+            },
+            "Key terms and definitions": {
+                "What is a fuel": "A substance that is used, usually combusted, that has energy stored in its bonds",
+                "What is a fossil fuel": "A natural fuel that is formed in the Earth from plant or animal remains",
+                "What is coal": "A combustible fossil fuel formed by the partial decay of plant matter",
+                "What is petrodiesal": "A liquid hydrocarbon fossil fuel obtained from crude oil",
+                "What is natural gas": "A fossil fuel consisting largely of hydrocarbons",
+                "What is coal seam gas": "A natural gas sourced from coal deposits",
+                "What is the greenhouse effect": "The process of the warming of Earths lower atmosphere due to the increased quantities of gases, like carbon dioxide, water vapour and methane, in the air",
+                "What is a non-renewable resource": "A resource that cannot be replenished as quickly as it is being consumed",
+                "What is petroleum/crude oil": "A mixture of hydrocarbons that need to be seperated and possibly treated to produce desired products"
+            },
+            "Questions": {
+                "Why are fossil fuels useful": "They contain a lot of chemical energy that can be readily released through combustion",
+                "What SI unit is energy measured in and what symbol is it given": "The Joule, given the symbol J",
+                "What are the three most common fossil fuels": "Coal, petrodiesal and natural gas",
+                "What are the three steps in the forming of black coal": "1: Vegetation dies to form peat (60% carbon) \n2: Peat is compressed between sediment to form brown coal (70% carbon)\n3: Brown coal is further compressed to form black coal (90% carbon)",
+                "True/False: Brown coal is the most energy rich coal, with a carbon percentage of roughly 70%": "False, black coal has a higher carbon percentage of 90%",
+                "Outline the steps involved in converting coal to electrical energy": "1: Coal is combusted \n2: The heat produced is used to boil water, forming steam \n3: The steam is used to turn a turbine that produces electrical energy",
+                "What name is given to the process used to seperate hydrocarbons in petroleum/crude oil": "Fractional distillation",
+                "True/False: Petrodiesel is produced during the fractional distillation of crude oil/petroleum": "True",
+                "True/False: Petroleum/crude oil deposits are rarely contaminated by sulfur and nitrogen compounds, resulting in the production of harmful substances when combusted": "False, these deposits are very often contaminated",
+                "Where is natural gas often found": "Bound to the surface of coal deposits and trapped in shale rock",
+                "How is natural gas accessed": "Drilling and a process known as fracking",
+                "Outline the process of fracking": "Fracking involves the injecting of high pressure liquid into coal and shale rocks to force open fissures to extract the gas",
+                "Why are fossil fuels considered non-renewable": "They cannot be produced as fast as they are being consumed, as the process of fossilisation takes a long time"
+            }
+        },
+        "Bio fuels": {
+            "Key terms and definitions": {
+                "What is a biofuel": "A fuel sourced from organic matter",
+                "What is a biogas": "A gaseous fuel produced by the anaerobic breakdown of glucose in organic matter",
+                "What is bioethanol": "A fuel produced by the fermentation of glucose in organic matter",
+                "What is biodiesel": "A fuel produced by the esterification of fats and oils in organic matter",
+                "What is meant by 'carbon neutal'": "Fuel which does not result in a net production of carbon dioxide from sourcing or consumption",
+                "What is fermentation": "The breakdown of a substance in the presence of microorganisms such as yeast",
+                "What is a renewable resource": "A Resource capable of being replenished by natural processes as quickly or faster than it is being consumed",
+                "What is transesterification": "A reaction that produces biodiesel",
+                "What is a triglyceride": "A fat or oil composed of three fatty acid tails and a glycerol backbone",
+                "What is yeast": "A variety of microorganism which converts glucose into ethanol"
+            },
+            "Questions": {
+                "True/False: Biogas is a mixture of gases": "True",
+                "What kinds of organic matter are often broken down by bacteria": "Algae, crops, wood and compostable garbage",
+                "True/False: Biogas is prodominantly methane": "True",
+                "Write the formula for the production of ethanol via the fermentation of glucose": "C6H12O6 -(bacteria)-> 2CH3CH2OH + 2CO2",
+                "Why is bioethanol considered relatively carbon neutral": "The combustion of bioethanol produces CO2, however the photosynthesis of the plants that produce the fuel offsets this CO2 released. However the vehicles used to transport, harvest and produce the bioethanol produce CO2 meaning that bioethanol is not entirely carbon neutral",
+                "How is biodiesel produced": "It is produced from the esterification of fats originating from animal products and oils originating from crops",
+                "True/False: Methanol is commonly added to a triglyceride along with a catalyst such as KOH, resulting in a reaction that forms biodiesel": "True",
+                "Why are biofuels considered renewable": "They are produced from organic matter in a relatively short period of time, meaning it has the potential to be produced at a rate faster than it is being consumed"
+            }
+        },
+        "Comparison of fuels": {
+            "Key terms and definitions": {
+                "What is viscosity": "The resistance of a substance to flow",
+                "What is hygroscopicity": "The ability to absorb water"
+            },
+            "Questions": {
+                "Compare the renewability of fossil fuels and biofuels": "Fossil fuels are produced from the fossilisation of plants and animals over millions of years and as such they are considered non-renewable as they cannot be replenished at the rate at which they are consumed. On the other hand biofuels are produced from organic matter at a relatively rapid rate that can be greater than the rate of consumption, making it the more renewable option of the two.",
+                "Compare the energy per gram of fossil fuels and biofuels": "The combustion of biofuels will often produce less fuel per gram when comparred to fossil fuels, this is due to the oxygen in biofuels preventing carbon atoms from being fully oxidised",
+                "Compare the environmental impacts of fossil fuels and biofuels in regards to net CO2 production": "Biofuels have a much lower net CO2 production than fossil fuels due to the photosynthesis of plants that are used to produce biofuels offsetting the CO2 produced during their combustion.",
+                "Compare the environmental impacts of fossil fuels and biofuels in regards to particulate matter": "Biofuels produce much less particulate matter than fossil fuels as they are not contaminated like fossil fuels often are",
+                "Compare the environmental impacts of fossil fuels and biofuels in regards to land and resource usage": "Biofuels require a large amount of land and water in order to grow the plants needed to produce biofuel. Fossil fuels on the other hand require extensive drilling and mining to extract the fuels from the Earth. Both are very impactful to local land and wildlife."
             }
         }
     }
