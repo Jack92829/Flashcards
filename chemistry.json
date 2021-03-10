@@ -261,6 +261,26 @@
             }
         },
         "Bio fuels": {
+            "All": {
+                "What is a biofuel": "A fuel sourced from organic matter",
+                "What is a biogas": "A gaseous fuel produced by the anaerobic breakdown of glucose in organic matter",
+                "What is bioethanol": "A fuel produced by the fermentation of glucose in organic matter",
+                "What is biodiesel": "A fuel produced by the esterification of fats and oils in organic matter",
+                "What is meant by 'carbon neutal'": "Fuel which does not result in a net production of carbon dioxide from sourcing or consumption",
+                "What is fermentation": "The breakdown of a substance in the presence of microorganisms such as yeast",
+                "What is a renewable resource": "A Resource capable of being replenished by natural processes as quickly or faster than it is being consumed",
+                "What is transesterification": "A reaction that produces biodiesel",
+                "What is a triglyceride": "A fat or oil composed of three fatty acid tails and a glycerol backbone",
+                "What is yeast": "A variety of microorganism which converts glucose into ethanol",
+                "True/False: Biogas is a mixture of gases": "True",
+                "What kinds of organic matter are often broken down by bacteria": "Algae, crops, wood and compostable garbage",
+                "True/False: Biogas is prodominantly methane": "True",
+                "Write the formula for the production of ethanol via the fermentation of glucose": "C6H12O6 -(bacteria)-> 2CH3CH2OH + 2CO2",
+                "Why is bioethanol considered relatively carbon neutral": "The combustion of bioethanol produces CO2, however the photosynthesis of the plants that produce the fuel offsets this CO2 released. However the vehicles used to transport, harvest and produce the bioethanol produce CO2 meaning that bioethanol is not entirely carbon neutral",
+                "How is biodiesel produced": "It is produced from the esterification of fats originating from animal products and oils originating from crops",
+                "True/False: Methanol is commonly added to a triglyceride along with a catalyst such as KOH, resulting in a reaction that forms biodiesel": "True",
+                "Why are biofuels considered renewable": "They are produced from organic matter in a relatively short period of time, meaning it has the potential to be produced at a rate faster than it is being consumed"
+            },
             "Key terms and definitions": {
                 "What is a biofuel": "A fuel sourced from organic matter",
                 "What is a biogas": "A gaseous fuel produced by the anaerobic breakdown of glucose in organic matter",
@@ -285,6 +305,19 @@
             }
         },
         "Comparison of fuels": {
+            "All": {
+                "What is viscosity": "The resistance of a substance to flow",
+                "What is hygroscopicity": "The ability to absorb water",
+                "Compare the renewability of fossil fuels and biofuels": "Fossil fuels are produced from the fossilisation of plants and animals over millions of years and as such they are considered non-renewable as they cannot be replenished at the rate at which they are consumed. On the other hand biofuels are produced from organic matter at a relatively rapid rate that can be greater than the rate of consumption, making it the more renewable option of the two.",
+                "Compare the energy per gram of fossil fuels and biofuels": "The combustion of biofuels will often produce less fuel per gram when comparred to fossil fuels, this is due to the oxygen in biofuels preventing carbon atoms from being fully oxidised",
+                "Compare the environmental impacts of fossil fuels and biofuels in regards to net CO2 production": "Biofuels have a much lower net CO2 production than fossil fuels due to the photosynthesis of plants that are used to produce biofuels offsetting the CO2 produced during their combustion.",
+                "Compare the environmental impacts of fossil fuels and biofuels in regards to particulate matter": "Biofuels produce much less particulate matter than fossil fuels as they are not contaminated like fossil fuels often are",
+                "Compare the environmental impacts of fossil fuels and biofuels in regards to land and resource usage": "Biofuels require a large amount of land and water in order to grow the plants needed to produce biofuel. Fossil fuels on the other hand require extensive drilling and mining to extract the fuels from the Earth. Both are very impactful to local land and wildlife.",
+                "Compare the viscosity of petrodiesel and biodiesel": "Due to the presence of polar ester groups in biodiesel, biodiesel is much more viscouse than the non-polar petrodiesel",
+                "True/False: It is easier to store and use biodiesel at low temperatures due to viscosity increasing at lower temps, making the less-viscous biodiesel a better option than petrodiesel": "False, biodiesel has a higher viscosity than biodiesel which makes it the less disirable of the two in cold temperatures",
+                "Compare the hygroscopicity of petrodiesel and biodiesel": "Due to the polar nature of biodiesel, it has a greater hygroscopicity than the non-polar petrodiesel as is able to form bonds with water",
+                "True/False: Petrodiesel can be stored for longer periods of time when comparred to biodiesel without water comprimising the quality of the fuel": "True (due to the lower hygroscopicity of petrodiesel)"
+            },
             "Key terms and definitions": {
                 "What is viscosity": "The resistance of a substance to flow",
                 "What is hygroscopicity": "The ability to absorb water"
@@ -294,7 +327,111 @@
                 "Compare the energy per gram of fossil fuels and biofuels": "The combustion of biofuels will often produce less fuel per gram when comparred to fossil fuels, this is due to the oxygen in biofuels preventing carbon atoms from being fully oxidised",
                 "Compare the environmental impacts of fossil fuels and biofuels in regards to net CO2 production": "Biofuels have a much lower net CO2 production than fossil fuels due to the photosynthesis of plants that are used to produce biofuels offsetting the CO2 produced during their combustion.",
                 "Compare the environmental impacts of fossil fuels and biofuels in regards to particulate matter": "Biofuels produce much less particulate matter than fossil fuels as they are not contaminated like fossil fuels often are",
-                "Compare the environmental impacts of fossil fuels and biofuels in regards to land and resource usage": "Biofuels require a large amount of land and water in order to grow the plants needed to produce biofuel. Fossil fuels on the other hand require extensive drilling and mining to extract the fuels from the Earth. Both are very impactful to local land and wildlife."
+                "Compare the environmental impacts of fossil fuels and biofuels in regards to land and resource usage": "Biofuels require a large amount of land and water in order to grow the plants needed to produce biofuel. Fossil fuels on the other hand require extensive drilling and mining to extract the fuels from the Earth. Both are very impactful to local land and wildlife.",
+                "Compare the viscosity of petrodiesel and biodiesel": "Due to the presence of polar ester groups in biodiesel, biodiesel is much more viscouse than the non-polar petrodiesel",
+                "True/False: It is easier to store and use biodiesel at low temperatures due to viscosity increasing at lower temps, making the less-viscous biodiesel a better option than petrodiesel": "False, biodiesel has a higher viscosity than biodiesel which makes it the less disirable of the two in cold temperatures",
+                "Compare the hygroscopicity of petrodiesel and biodiesel": "Due to the polar nature of biodiesel, it has a greater hygroscopicity than the non-polar petrodiesel as is able to form bonds with water",
+                "True/False: Petrodiesel can be stored for longer periods of time when comparred to biodiesel without water comprimising the quality of the fuel": "True (due to the lower hygroscopicity of petrodiesel)"
+            }
+        }
+    },
+    "Combustion": {
+        "Combustion reactions": {
+            "All": {
+                "What is chemical energy": "Energy that is stored in the bonds of chemical compounds",
+                "What is meant by 'exothermic'": "A chemical reaction accompanied by the release of energy in the form of heat",
+                "What is meant by 'endothermic'": "A chemical reaction that absorbs energy in the form of heat from the surrounding environment",
+                "What is enthalpy": "A measurement of the internal energy of a system",
+                "What is meant by 'complete combustion'": "The reaction of a substance with oxygen to produce carbon dioxide and water",
+                "What is meant by 'incomplete combustion'": "The partial burning of a substance to produce carbon monoxide and water",
+                "True/False: Complete combustion occurs when there is a lack of oxygen while incomplete combustion occurs when there is an excess of oxygen": "False, it is the opposite way around",
+                "True/False: Combustion reactions are also a type of redox reaction": "True",
+                "True/False: All combustion reactions are classified as endothermic as they release heat energy": "False, they release heat energy and as such are classified as exothermic",
+                "Compare the enthalpy of the reactants and products of a combustion reaction": "Combustions reactions are exothermic, meaning that energy was lost to the surroundings during the reaction. Therefore the reactants of the combustion reactions will have a greater combined enthalpy than that of the products",
+                "Why is the change in enthalpy of all exothermic reactions given a negative sign": "All exothermic reactions release energy into their surrondings during the reaction process, meaning that there is a net loss of energy from the system and hence a negative change in enthalpy",
+                "Compare the enthalpy of the reactants and products of an endothermic reaction": "During endothermic reactions there is a net gain in energy by the system, meaning that the reactants will have a lower enthalpy value than their products",
+                "True/False: The melting of ice is an example of an endothermic reaction": "True"
+            },
+            "Key terms and definitions": {
+                "What is chemical energy": "Energy that is stored in the bonds of chemical compounds",
+                "What is meant by 'exothermic'": "A chemical reaction accompanied by the release of energy in the form of heat",
+                "What is meant by 'endothermic'": "A chemical reaction that absorbs energy in the form of heat from the surrounding environment",
+                "What is enthalpy": "A measurement of the internal energy of a system",
+                "What is meant by 'complete combustion'": "The reaction of a substance with oxygen to produce carbon dioxide and water",
+                "What is meant by 'incomplete combustion'": "The partial burning of a substance to produce carbon monoxide and water"
+            },
+            "Questions": {
+                "True/False: Complete combustion occurs when there is a lack of oxygen while incomplete combustion occurs when there is an excess of oxygen": "False, it is the opposite way around",
+                "True/False: Combustion reactions are also a type of redox reaction": "True",
+                "True/False: All combustion reactions are classified as endothermic as they release heat energy": "False, they release heat energy and as such are classified as exothermic",
+                "Compare the enthalpy of the reactants and products of a combustion reaction": "Combustions reactions are exothermic, meaning that energy was lost to the surroundings during the reaction. Therefore the reactants of the combustion reactions will have a greater combined enthalpy than that of the products",
+                "Why is the change in enthalpy of all exothermic reactions given a negative sign": "All exothermic reactions release energy into their surrondings during the reaction process, meaning that there is a net loss of energy from the system and hence a negative change in enthalpy",
+                "Compare the enthalpy of the reactants and products of an endothermic reaction": "During endothermic reactions there is a net gain in energy by the system, meaning that the reactants will have a lower enthalpy value than their products",
+                "True/False: The melting of ice is an example of an endothermic reaction": "True"
+            }
+        },
+        "Energy changes during combustion": {
+            "All": {
+                "What is an energy profile diagram": "A representation of the energy transformation of a chemical reaction",
+                "What is activation energy": "The minimum amount of energy required for a reaction to occur",
+                "What is meant by 'heat of combustion'": "The amount of heat released by the complete combustion of a substance",
+                "What is specific heat capacity": "The heat required to raise the temperature of 1 gram of a given substance by 1 degree celcius",
+                "What is a thermochemical equation": "A balanced stoichiometric equation that includes the enthalpy change of the reaction",
+                "What is heat of combustion most often measured in": "Kilojoules per mole",
+                "Why can the heat of combustion of some substances not be measured in kilojoules per mole, what is used instead": "Some fuels such as petrodiesel is a mixture of compounds, and so must be measured in kilojoules per gram instead",
+                "True/False: Heat of combustion is always a positive value": "True",
+                "What is the formula for calculating the heat of combustion of a substance": "E = n * ΔH",
+                "What is the symbol and unit given to specific heat capacity": "It is given the symbol c, and the unit joules per gram per degree celcius",
+                "What is the value of the specific heat capacity of water": "4.18",
+                "What is the formula for specific heat capacity": "q = mcΔt \nenergy = mass * specific heat capacity * change in temperature"
+            },
+            "Key terms and definitions": {
+                "What is an energy profile diagram": "A representation of the energy transformation of a chemical reaction",
+                "What is activation energy": "The minimum amount of energy required for a reaction to occur",
+                "What is meant by 'heat of combustion'": "The amount of heat released by the complete combustion of a substance",
+                "What is specific heat capacity": "The heat required to raise the temperature of 1 gram of a given substance by 1 degree celcius",
+                "What is a thermochemical equation": "A balanced stoichiometric equation that includes the enthalpy change of the reaction"
+            },
+            "Questions": {
+                "What is heat of combustion most often measured in": "Kilojoules per mole",
+                "Why can the heat of combustion of some substances not be measured in kilojoules per mole, what is used instead": "Some fuels such as petrodiesel is a mixture of compounds, and so must be measured in kilojoules per gram instead",
+                "True/False: Heat of combustion is always a positive value": "True",
+                "What is the formula for calculating the heat of combustion of a substance": "E = n * ΔH",
+                "What is the symbol and unit given to specific heat capacity": "It is given the symbol c, and the unit joules per gram per degree celcius",
+                "What is the value of the specific heat capacity of water": "4.18",
+                "What is the formula for specific heat capacity": "q = mcΔt \nenergy = mass * specific heat capacity * change in temperature"
+            }
+        },
+        "Gases": {
+            "All": {
+                "What is a gas": "A state of matter with no fixed shape or volume and which fills the available space",
+                "What is an ideal gas": "A substance assumed to be composed of molecules of negligable volume with no intermolecular interactions",
+                "What is pressure": "The force a gas exerts on the walls of its container",
+                "What are standard laboratory conditions (SLC)": "A set of conditions used as the standard for experiments",
+                "What are the properties of an ideal gas": "Ideal gases have the following properties: \n- Experience no intermolecular forces \n- Have molecules that have zero volume individually \n- Exchange no energy during a collision",
+                "What is the basic formula for finding pressure": "Pressure = force / area",
+                "What is the standard unit of pressure": "The pascal (representing newtons per meter squared)",
+                "Convert 100 pascals to mmHg": "100 Pa -> 750 mmHg",
+                "Convert 100 pascals to atm": "100 Pa -> 0.987 atm",
+                "State the formula of the universal gas law": "PV = nRT \npressure * volume = moles * gas constant * temperature",
+                "Convert 25 degrees celcius to kelvin": "25 + 273 = 298 K",
+                "Under standard lab conditions, what formula links moles, volume and molar volume": "n = V / Vm, where Vm = 24.8"
+            },
+            "Key terms and definitions": {
+                "What is a gas": "A state of matter with no fixed shape or volume and which fills the available space",
+                "What is an ideal gas": "A substance assumed to be composed of molecules of negligable volume with no intermolecular interactions",
+                "What is pressure": "The force a gas exerts on the walls of its container",
+                "What are standard laboratory conditions (SLC)": "A set of conditions used as the standard for experiments"
+            },
+            "Questions": {
+                "What are the properties of an ideal gas": "Ideal gases have the following properties: \n- Experience no intermolecular forces \n- Have molecules that have zero volume individually \n- Exchange no energy during a collision",
+                "What is the basic formula for finding pressure": "Pressure = force / area",
+                "What is the standard unit of pressure": "The pascal (representing newtons per meter squared)",
+                "Convert 100 pascals to mmHg": "100 Pa -> 750 mmHg",
+                "Convert 100 pascals to atm": "100 Pa -> 0.987 atm",
+                "State the formula of the universal gas law": "PV = nRT \npressure * volume = moles * gas constant * temperature",
+                "Convert 25 degrees celcius to kelvin": "25 + 273 = 298 K",
+                "Under standard lab conditions, what formula links moles, volume and molar volume": "n = V / Vm, where Vm = 24.8"
             }
         }
     }
