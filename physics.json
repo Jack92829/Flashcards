@@ -21,12 +21,35 @@
         }
     },
     "Special relativity": {
-        "A pair of scientists are measuring the time it takes for a particle travelling at 0.99875c to travel from one side of a tube to another\nExplain what the scientists would observe": "They would observe the time taken for the particle to reach the end of the tube shorten when comparred to what classical physics would predict",
-        "A pair of scientists are measuring the time it takes for a particle travelling at 0.99875c to travel from one side of a tube to another\nExplain what the particles would observe": "They would observe the distance they need to travel contracting to a distance smaller than classical physics would explain",
-        "What is the result of a large increase in the impulse provided to an object moving at a speed near that of light": "A very small increase in the velocity of the object",
-        "Calculate the energy produced by the Sun in one day if 4 million tonnes of matter are converted into energy every second": "4*10^6 * 1000 = 4*10^9 kg \nE = mc^2 \n  = 4*10^9 * (3*10^8)^2 \n  = 3.6*10^26 \n86400 seconds in a day \n\n86400 * 3.6*10^26 = 8.11*10^31 J per day",
-        "Calculate the total energy of a very fast scooter if its rest mass is 210kg and it is travelling at a speed of 2.55*10^8 ms^-1": "γ = 1.9 \nE = γmc^2 \n  = 1.9 * 210 * (3*10^8)^2 \n  = 3.6*10^19 J",
-        "State Einsteins first postulate": "There is no such thing as absolute rest and that the laws of physics must be the same for all inertial (non-accelerating) frames of reference",
-        "State Einsteins second postulate": "The speed of light is the same for all observers, regardless of their motion or the motion of the source"
+        "Einstein's theory of special relitivity": {
+            "What is an inertial frame of reference": "A non-accelerating frame of reference (constant velocity)",
+            "True/False: There is no experiment you can do that is within a single inertial frame of reference that will tell you that you're moving": "True",
+            "What name was given to the medium light was once thought to move through (and hence move relative to)": "The Aether",
+            "State Einsteins first postulate": "The laws of physics must be the same for all inertial (non-accelerating) frames of reference, and as such there is no such thing as a state of absolute rest",
+            "State Einsteins second postulate": "The speed of light is the same for all observers, regardless of their motion or the motion of the source",
+            "How did Einsteins theories differ from Newtons": "Einstein stated that space and time are flexible and will contract or dilate to keep the speed of light constant, Newton on the other hand believed time and space to be constant and unchanging"
+        },
+        "Time dilation": {
+            "What is meant by proper time": "Time as measured by an observer who is at rest relative to the event being timed",
+            "What is the Lorentz factor": "The factor used to find the factor by which proper time is dilated and the factor by which proper length is contracted",
+            "True/False: The Lorentz factor will always be greater than one for speeds greater than 0.1c": "False, the Lorentz factor will always be greater than one no matter the speed",
+            "At what speeds do Newtons physics begin to break down": "At speeds exceeding 10% the speed of light (0.1c)"
+        },
+        "Length contraction": {
+            "What is meant by proper length": "Length as measured from an observer who is at rest relative to the object whose length is being measured",
+            "True/False: A car goes from rest to a speed of 0.84c as it travels towards a distant mountain, the distance between the car and the mountain becomes shorter from the cars frame of reference as it reaches relativistic speeds": "True"
+        },
+        "Mass energy": {
+            "Calculate the energy produced by the Sun in one day if 4 million tonnes of matter are converted into energy every second": "4*10^6 * 1000 = 4*10^9 kg \nE = mc^2 \n  = 4*10^9 * (3*10^8)^2 \n  = 3.6*10^26 \n86400 seconds in a day \n\n86400 * 3.6*10^26 = 8.11*10^31 J per day",
+            "Calculate the total energy of a very fast scooter if its rest mass is 210kg and it is travelling at a speed of 2.55*10^8 ms^-1": "γ = 1.9 \nE = γmc^2 \n  = 1.9 * 210 * (3*10^8)^2 \n  = 3.6*10^19 J",
+            "What is rest energy": "The energy that an object has due to its mass"
+        },
+        "Relativistic mass and momentum": {
+            "What is the result of a large increase in the impulse provided to an object moving at a speed near that of light": "A very small increase in the velocity of the object"
+        },
+        "Questions": {
+            "A pair of scientists are measuring the time it takes for a particle travelling at 0.99875c to travel from one side of a tube to another\nExplain what the scientists would observe": "They would observe the time taken for the particle to reach the end of the tube shorten when comparred to what classical physics would predict",
+            "A pair of scientists are measuring the time it takes for a particle travelling at 0.99875c to travel from one side of a tube to another\nExplain what the particles would observe": "They would observe the distance they need to travel contracting to a distance smaller than classical physics would explain"
+        }
     }
 }
